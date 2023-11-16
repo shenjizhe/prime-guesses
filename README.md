@@ -13,3 +13,9 @@ Shen Jize guesses: there is no largest prime number. The product of all prime nu
 
 所以没有必要再去找最大的质数了，因为不存在这个数，数学的基石是无穷的
 So there is no need to find the largest prime number, because there is no such number. The cornerstone of mathematics is infinity.
+
+转而去研究，基数的组合规则更有价值
+质数
+简单合数（只有质数相乘）
+复杂合数（基石中有合数的合数）
+合数的阶（基石的数量）
